@@ -4,6 +4,6 @@ Belajar redux 1
 
 # RUN / BUILD
 
-$ npm install\n
-$ npm run build\n
- open index.html with browser
+* $ npm install
+* $ npm run build
+* open index.html with browser
