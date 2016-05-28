@@ -1,0 +1,37 @@
+{
+  "name": "redux-todo-immutable",
+  "version": "1.0.0",
+  "description": "Redux Todo with Immutable",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --debug"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/aligos/redux-todo-immutable.git"
+  },
+  "keywords": [
+    "Redux",
+    "React",
+    "Immutable"
+  ],
+  "author": "Rahmat Aligos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aligos/redux-todo-immutable/issues"
+  },
+  "homepage": "https://github.com/aligos/redux-todo-immutable#readme",
+  "dependencies": {
+    "immutable": "^3.8.1",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "react-redux": "^4.4.5",
+    "redux": "^3.5.2"
+  },
+  "devDependencies": {
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.5.0",
+    "webpack": "^1.13.1"
+  }
+}
